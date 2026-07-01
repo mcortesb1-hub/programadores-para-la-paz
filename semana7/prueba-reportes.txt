@@ -1,0 +1,1 @@
+Al enviar un reporte mediante una petición POST, el servidor guarda la información en un arreglo llamado "reportes". Después, al realizar una petición GET a la ruta "/reportes", el servidor devuelve la lista de reportes registrados. En este caso se muestra el reporte con su identificador, el tipo y la descripción.
