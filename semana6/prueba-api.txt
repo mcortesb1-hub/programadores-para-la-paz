@@ -1,0 +1,1 @@
+Al enviar una petición POST a la ruta http://localhost:3000/registro con un objeto JSON que contiene el nombre y el mensaje, el servidor recibe esos datos mediante "req.body" y responde con otro objeto JSON. La respuesta confirma que los datos fueron recibidos correctamente y muestra la información enviada por el usuario, incluyendo el estado, el nombre y el mensaje.
