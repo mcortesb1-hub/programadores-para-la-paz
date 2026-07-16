@@ -1,0 +1,23 @@
+Entidad: Propuesta
+
+Campos principales:
+
+- id
+- titulo
+- descripcion
+- fecha_creacion
+
+Propósito:
+Guardar la información de cada propuesta comunitaria registrada en la plataforma.
+
+Entidad: Participacion
+
+Campos principales:
+
+- id
+- propuesta_id
+- nombre_usuario
+- fecha_apoyo
+
+Propósito:
+Registrar los apoyos realizados por los ciudadanos para cada propuesta y llevar un control de la participación.
