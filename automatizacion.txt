@@ -1,5 +1,0 @@
-Evento que activa la automatización: Una propuesta recibe un nuevo apoyo.
-
-Mensaje que se envía: "Se ha registrado un nuevo apoyo a una propuesta comunitaria. Revisa la plataforma para conocer los detalles."
-
-Información que no debe enviarse por seguridad: Nombres completos, números de identificación, direcciones, teléfonos, correos electrónicos, contraseñas ni ningún otro dato personal o confidencial.
