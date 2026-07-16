@@ -1,0 +1,5 @@
+1. Un líder comunitario registra una nueva propuesta para mejorar un espacio público.
+2. La información de la propuesta se guarda en la base de datos de la plataforma.
+3. Los habitantes de la comunidad pueden consultar la propuesta y apoyarla.
+4. El sistema actualiza automáticamente el número de apoyos recibidos.
+5. Cuando la propuesta alcanza el número de apoyos esperado, se genera un documento PDF con la información para presentarlo ante la entidad correspondiente.
